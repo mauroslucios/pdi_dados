@@ -1,8 +1,6 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 ---
 
-# pdi_dados_itau
+# pdi_dados
 
 
 Here's a 6-month Spark learning plan based on the identified skills, broken down month by month, with a focus on both theoretical understanding and practical application. This plan assumes you have a basic understanding of programming concepts and data structures.
